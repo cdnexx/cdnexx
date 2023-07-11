@@ -8,7 +8,7 @@ I started studying at university in 2020 where I learned to program mainly in Py
 * 🌍  I'm based in Santiago, Chile
 * ✉️  You can contact me at [franco.oc99@gmail.com](mailto:franco.oc99@gmail.com)
 * 🧠  I'm currentrly learning React
-* 🤝  I'm open to collaborate on Python or React projects
+* 🤝  I'm open to collaborate on Python, Django or React projects
 
 ### Skills
 
